@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Spending</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="rupee_symbol">₹%1$s</string>
+    <string name="total_spending">Total Spending</string>
+    <string name="enter_purpose">Enter Purpose</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="close">close</string>
+    <string name="total_item">Total Item</string>
+    <string name="there_s_nothing_here">There\'s nothing here…</string>
+</resources>

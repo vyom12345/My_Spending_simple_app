@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3B64F6</color>
+    <color name="colorPrimaryVariant">#7E97EE</color>
+    <color name="windows_background">#E2E7F9</color>
+    <color name="surface_color">#fff</color>
+    <color name="font_color">#313233</color>
+    <color name="green">#00A600</color>
+    <color name="delete_button_bottom_sheet">#FF3737</color>
+    <color name="close_button_bottom_sheet">#313233</color>
+    <color name="orange">#FF5722</color>
+    <color name="white">#fff</color>
+    <color name="status_bar_color">@color/white</color>
+    <color name="empty_data_ghost">#333B64F6</color>
+</resources>

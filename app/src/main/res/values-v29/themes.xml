@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MySpending" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorSecondaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/status_bar_color</item>
+        <item name="colorSurface">@color/surface_color</item>
+        <item name="android:windowBackground">@color/windows_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColorPrimary">@color/font_color</item>
+        <item name="android:textColor">@color/font_color</item>
+        <item name="bottomSheetDialogTheme">@style/CustomBottomSheetDialog</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>
